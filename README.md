@@ -15,6 +15,8 @@ This Terraform module manages an Amazon DocumentDB (with MongoDB compatibility) 
 - [Use Cases](#UseCases)
 - [Inputs](#inputs)
 - [Outputs](#outputs)
+- [Contact Information](#contact-information)
+- [References](#References)
 
 
 
