@@ -5,7 +5,9 @@
   [opstree_avatar]: https://img.cloudposse.com/150x150/https://github.com/opstree.png
 
 
-This Terraform module manages an Amazon DocumentDB (with MongoDB compatibility) cluster on AWS. It provisions the cluster, its instances, associated security groups, subnet groups, and parameter groups.
+**This README.md provides a comprehensive guide to setting up and managing CloudFront distributions using Terraform, making it easier for users to understand.**
+
+***
 
 ## Table of Contents
 
