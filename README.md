@@ -942,5 +942,5 @@ This example demonstrates a basic setup of AWS CloudFront using Terraform with *
 
 | **Source** | **Description** |
 | ---------- | --------------- |
-| [Link](https://aws.amazon.com/what-is/cdn/#:~:text=A%20content%20delivery%20network%20(CDN,loading%20for%20data%2Dheavy%20applications.) | CloudFront Concept. |
+| [Link](https://aws.amazon.com/what-is/cdn/#:~:text=A%20content%20delivery%20network%20CDN,loading%20for%20data%2Dheavy%20applications) | CloudFront Concept. |
 | [Link](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/cloudfront_distribution) | Reference Link For Terraform Modules. |
